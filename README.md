@@ -11,7 +11,7 @@
 
 ### STEPS 1:
 Open SQL Server and create database and table
-run this commands:
+run this commands: <br />
 Createdb.sql
 UserTab.sql
 
