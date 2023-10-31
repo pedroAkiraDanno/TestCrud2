@@ -1,13 +1,14 @@
 # TestCrud2
 
 
-##STEPS:
+## STEPS:
 
 
-###STEPS 1:
+### STEPS 1:
 Open SQL Server and create database and table
 run this commands:
 Createdb.sql
+UserTab.sql
 
 
 
