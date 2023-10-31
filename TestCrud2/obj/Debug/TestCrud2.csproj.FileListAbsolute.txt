@@ -1,0 +1,10 @@
+C:\Users\pedro.akira\source\repos\TestCrud2\TestCrud2\bin\Debug\TestCrud2.exe.config
+C:\Users\pedro.akira\source\repos\TestCrud2\TestCrud2\bin\Debug\TestCrud2.exe
+C:\Users\pedro.akira\source\repos\TestCrud2\TestCrud2\bin\Debug\TestCrud2.pdb
+C:\Users\pedro.akira\source\repos\TestCrud2\TestCrud2\obj\Debug\TestCrud2.csproj.AssemblyReference.cache
+C:\Users\pedro.akira\source\repos\TestCrud2\TestCrud2\obj\Debug\TestCrud2.Properties.Resources.resources
+C:\Users\pedro.akira\source\repos\TestCrud2\TestCrud2\obj\Debug\TestCrud2.csproj.GenerateResource.cache
+C:\Users\pedro.akira\source\repos\TestCrud2\TestCrud2\obj\Debug\TestCrud2.csproj.CoreCompileInputs.cache
+C:\Users\pedro.akira\source\repos\TestCrud2\TestCrud2\obj\Debug\TestCrud2.exe
+C:\Users\pedro.akira\source\repos\TestCrud2\TestCrud2\obj\Debug\TestCrud2.pdb
+C:\Users\pedro.akira\source\repos\TestCrud2\TestCrud2\obj\Debug\TestCrud2.Form1.resources
